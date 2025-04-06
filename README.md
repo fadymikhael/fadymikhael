@@ -3,8 +3,6 @@
 🚀 Passionate about **web development**, **automation**, and **Microsoft 365 solutions**  
 📍 Based in **Paris, France** | Working at **Louis Vuitton**  
 💡 Constantly learning & building projects to level up my skills  
-[![GitHub Followers](https://img.shields.io/github/followers/fadymikhael?label=Follow&style=social)](https://github.com/fadymikhael)  
-
 ---
 
 ## 🛠️ Tech Stack  
