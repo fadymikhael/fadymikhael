@@ -4,23 +4,17 @@ I'm a passionate developer focused on **web development** and **modern technolog
 Currently based in Paris, I'm working at **Louis Vuitton** while building personal projects to sharpen my skills.
 
 ---
-
-## 💻 Main Skills
-
-- 🔹 JavaScript / React / React Native
-- 🔹 Symfony / PHP
-- 🔹 HTML / CSS / Tailwind
-- 🔹 Git / GitHub / GitHub Actions
-- 🔹 SQL / phpMyAdmin
+🔹Microsoft 365 Solutions & Development: SharePoint, Microsoft Teams, Power BI
+🔹 PowerShell / Automation Scripts
+🔹 JavaScript / React.js / React Native / Svelte
+🔹 PHP (Symfony, Laravel)
+🔹 HTML / CSS / Tailwind CSS
+🔹 SQL / MongoDB / phpMyAdmin
+🔹 Git / GitHub / GitHub Actions
 
 ---
 
 ## 🚀 Recent Projects
-
-- 📱 **Todo-List** – Task manager in JavaScript  
-- 🎮 **Space-Invader-Game** – Retro-style game in Java  
-- 🧮 **Project_GSB_Frais** – Expense tracking app in PHP  
-- 🛠️ **Apple E-commerce** (in progress) – Online shop built with Symfony + React
 
 > Check out more projects in the [Repositories](https://github.com/fadymikhael?tab=repositories) tab.
 
