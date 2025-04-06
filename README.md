@@ -1,38 +1,69 @@
-# 👋 Hi there, I'm Fady Mikhael
+# 👋 Hi, I'm Fady Mikhael | Web & Microsoft 365 Developer  
 
-I'm a passionate developer focused on **web development** and **modern technologies**.  
-Currently based in Paris, I'm working at **Louis Vuitton** while building personal projects to sharpen my skills.
-
----
-🔹Microsoft 365 Solutions & Development: SharePoint, Microsoft Teams, Power BI
-🔹 PowerShell / Automation Scripts
-🔹 JavaScript / React.js / React Native / Svelte
-🔹 PHP (Symfony, Laravel)
-🔹 HTML / CSS / Tailwind CSS
-🔹 SQL / MongoDB / phpMyAdmin
-🔹 Git / GitHub / GitHub Actions
+🚀 Passionate about **web development**, **automation**, and **Microsoft 365 solutions**  
+📍 Based in **Paris, France** | Working at **Louis Vuitton**  
+💡 Constantly learning & building projects to level up my skills  
+[![GitHub Followers](https://img.shields.io/github/followers/fadymikhael?label=Follow&style=social)](https://github.com/fadymikhael)  
 
 ---
 
-## 🚀 Recent Projects
+## 🛠️ Tech Stack  
 
-> Check out more projects in the [Repositories](https://github.com/fadymikhael?tab=repositories) tab.
+### **Microsoft 365 & Cloud**  
+🔹 SharePoint | Microsoft Teams | Power BI | Power Automate  
+🔹 PowerShell | Azure Automation  
 
----
+### **Web Development**  
+🔹 **Frontend**: JavaScript, React.js, Svelte, Tailwind CSS  
+🔹 **Backend**: PHP (Symfony, Laravel), Node.js  
+🔹 **Databases**: SQL, MongoDB, phpMyAdmin  
+🔹 **DevOps**: Git, GitHub Actions, CI/CD  
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadymikhael&show_icons=true&theme=react&hide_rank=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadymikhael&layout=compact&theme=react)
-
----
-
-## 🔗 Connect with me
-
-- 🌍 [My Website](http://fadymikhael.free.fr/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fadymikhael30/)
-- 📍 Paris, France
+### **Mobile Development**  
+🔹 React Native  
 
 ---
 
-> “Code, test, commit, push, repeat.”
+## 🏆 GitHub Achievements  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fadymikhael&theme=onedark&no-frame=true&column=7)  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🛒 **E-Boutique Symfony**  
+📌 **Full e-commerce platform** with Symfony 6  
+✨ Features: User auth, product management, Stripe payments  
+🔗 [Code](https://github.com/fadymikhael/eboutique-symfony)  
+
+### 👾 **Space Invader Game**  
+📌 **Retro game remake** with Java/  
+✨ Features: Score system, enemy waves, sound effects  
+🔗 [Code](https://github.com/fadymikhael/Space-Invader-Game)  
+
+### 💼 **GSB Expense Management**  
+📌 **Pharmaceutical expense tracking system** (PHP/Symfony)  
+✨ Features: CRUD operations, PDF generation, data visualization  
+🔗 [Code](https://github.com/fadymikhael/Project_GSB_Frais)  
+
+> 🔍 More projects in my [Repositories](https://github.com/fadymikhael?tab=repositories)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadymikhael&theme=dark&hide_border=true)  
+
+![Fady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadymikhael&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadymikhael&layout=compact&theme=radical&hide_border=true)  
+
+---
+
+## 🌍 Let's Connect    
+💼 **LinkedIn**: [Fady Mikhael](https://www.linkedin.com/in/fadymikhael30/)  
+🌐 **Portfolio**: [fadymikhael.free.fr](http://fadymikhael.free.fr/)  
+
+---
+> **Open to collaborations & new opportunities!** ✨  
