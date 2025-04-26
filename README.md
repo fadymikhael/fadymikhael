@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Fady Mikhael | Web & Microsoft 365 Developer  
+#  Hi, I'm Fady Mikhael | Web & Microsoft 365 Developer  
 
-🚀 Passionate about **web development**, **automation**, and **Microsoft 365 solutions**  
-📍 Based in **Paris, France** | Working at **Louis Vuitton**  
-💡 Constantly learning & building projects to level up my skills  
+ Passionate about **web development**, **automation**, and **Microsoft 365 solutions**  
+ Based in **Paris, France** | Working at **Louis Vuitton**  
+ Constantly learning & building projects to level up my skills  
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 ### **Microsoft 365 & Cloud**  
 🔹 SharePoint | Microsoft Teams | Power BI | Power Automate  
